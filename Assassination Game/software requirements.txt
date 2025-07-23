@@ -1,0 +1,4 @@
+==This game requires the following for it to run properly==
+-PySimpleGUI
+-Pygame
+-Pyperclip
